@@ -1,0 +1,5 @@
+﻿sentiment_class,indobert_precision,indobert_recall,indobert_f1,svm_f1_ref,support_test
+positif,0.9671,0.8548,0.9075,0.8802,241
+negatif,0.8341,0.9538,0.89,0.8502,195
+netral,0.8519,0.8519,0.8519,0.7925,27
+macro_avg,0.8844,0.8868,0.8831,0.841,463

@@ -1,0 +1,2 @@
+model,macro_f1,weighted_f1,best_seed,n_train,n_val,n_test
+IndoBERT,0.8842748102775766,0.908034437038952,123,1627,185,454

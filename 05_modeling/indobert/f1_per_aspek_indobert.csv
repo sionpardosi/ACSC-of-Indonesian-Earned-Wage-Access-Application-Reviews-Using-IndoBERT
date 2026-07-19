@@ -1,0 +1,6 @@
+Aspek,n_test,Accuracy,Macro-F1
+Kemudahan Penggunaan,256,0.945,0.94
+Keandalan Sistem,83,0.928,0.694
+Kecepatan Pencairan,55,0.782,0.787
+Biaya/Potongan,42,0.81,0.8
+Customer Service,18,0.889,0.827

@@ -1,0 +1,2 @@
+model,macro_f1,accuracy,n_train,n_test
+TF-IDF+SVM,0.8454005720649818,0.8788546255506607,1812,454

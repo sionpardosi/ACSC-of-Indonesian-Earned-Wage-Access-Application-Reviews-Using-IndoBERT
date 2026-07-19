@@ -1,0 +1,3 @@
+﻿review_id,app_name,aspect_category,review_text_original,sentiment,y_pred,correct
+4bbd9a78-5c5c-45d3-9627-7ac43c5abba5,VENTENY,Biaya/Potongan,"Dompet digital paling aman, biaya tf murah fiturnya mudah dimengerti , recommended",positif,positif,True
+4bbd9a78-5c5c-45d3-9627-7ac43c5abba5,VENTENY,Kemudahan Penggunaan,"Dompet digital paling aman, biaya tf murah fiturnya mudah dimengerti , recommended",positif,positif,True

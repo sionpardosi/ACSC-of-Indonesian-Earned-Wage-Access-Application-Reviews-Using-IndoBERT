@@ -1,0 +1,31 @@
+﻿review_id,app_name,teks_ulasan_bersih,kategori_aspek,sentimen,confidence
+DEMO_001,Wagely,cairnya cepat tapi biaya admin mahal banget,Kecepatan Pencairan,negatif,0.8253
+DEMO_001,Wagely,cairnya cepat tapi biaya admin mahal banget,Biaya/Potongan,negatif,0.8899
+DEMO_001,Wagely,cairnya cepat tapi biaya admin mahal banget,Kemudahan Penggunaan,negatif,0.614
+DEMO_001,Wagely,cairnya cepat tapi biaya admin mahal banget,Customer Service,negatif,0.8786
+DEMO_001,Wagely,cairnya cepat tapi biaya admin mahal banget,Keandalan Sistem,negatif,0.9441
+DEMO_002,GajiGesa,pencairan cepat kemudahan penggunaan bagus tapi sistem sering error,Kecepatan Pencairan,negatif,0.5395
+DEMO_002,GajiGesa,pencairan cepat kemudahan penggunaan bagus tapi sistem sering error,Biaya/Potongan,negatif,0.6931
+DEMO_002,GajiGesa,pencairan cepat kemudahan penggunaan bagus tapi sistem sering error,Kemudahan Penggunaan,positif,0.7399
+DEMO_002,GajiGesa,pencairan cepat kemudahan penggunaan bagus tapi sistem sering error,Customer Service,negatif,0.703
+DEMO_002,GajiGesa,pencairan cepat kemudahan penggunaan bagus tapi sistem sering error,Keandalan Sistem,negatif,0.9081
+DEMO_003,VENTENY,aplikasi mudah digunakan tidak ribet sama sekali,Kecepatan Pencairan,positif,0.9563
+DEMO_003,VENTENY,aplikasi mudah digunakan tidak ribet sama sekali,Biaya/Potongan,positif,0.8983
+DEMO_003,VENTENY,aplikasi mudah digunakan tidak ribet sama sekali,Kemudahan Penggunaan,positif,0.9749
+DEMO_003,VENTENY,aplikasi mudah digunakan tidak ribet sama sekali,Customer Service,positif,0.9154
+DEMO_003,VENTENY,aplikasi mudah digunakan tidak ribet sama sekali,Keandalan Sistem,positif,0.6163
+DEMO_004,Mekari Flex,cairnya cepat potongan wajar cs responsif tapi error terus,Kecepatan Pencairan,positif,0.5508
+DEMO_004,Mekari Flex,cairnya cepat potongan wajar cs responsif tapi error terus,Biaya/Potongan,negatif,0.7247
+DEMO_004,Mekari Flex,cairnya cepat potongan wajar cs responsif tapi error terus,Kemudahan Penggunaan,positif,0.8623
+DEMO_004,Mekari Flex,cairnya cepat potongan wajar cs responsif tapi error terus,Customer Service,negatif,0.7203
+DEMO_004,Mekari Flex,cairnya cepat potongan wajar cs responsif tapi error terus,Keandalan Sistem,negatif,0.8891
+DEMO_005,Paywatch,cs tidak merespons sudah seminggu belum ada kabar dan aplikasi crash,Kecepatan Pencairan,negatif,0.8147
+DEMO_005,Paywatch,cs tidak merespons sudah seminggu belum ada kabar dan aplikasi crash,Biaya/Potongan,negatif,0.8386
+DEMO_005,Paywatch,cs tidak merespons sudah seminggu belum ada kabar dan aplikasi crash,Kemudahan Penggunaan,negatif,0.813
+DEMO_005,Paywatch,cs tidak merespons sudah seminggu belum ada kabar dan aplikasi crash,Customer Service,negatif,0.6467
+DEMO_005,Paywatch,cs tidak merespons sudah seminggu belum ada kabar dan aplikasi crash,Keandalan Sistem,negatif,0.8365
+DEMO_006,AyoKasbon,proses pengajuan rumit dan biayanya tidak wajar,Kecepatan Pencairan,negatif,0.8938
+DEMO_006,AyoKasbon,proses pengajuan rumit dan biayanya tidak wajar,Biaya/Potongan,negatif,0.8901
+DEMO_006,AyoKasbon,proses pengajuan rumit dan biayanya tidak wajar,Kemudahan Penggunaan,negatif,0.8946
+DEMO_006,AyoKasbon,proses pengajuan rumit dan biayanya tidak wajar,Customer Service,negatif,0.8595
+DEMO_006,AyoKasbon,proses pengajuan rumit dan biayanya tidak wajar,Keandalan Sistem,negatif,0.9226

@@ -1,0 +1,14 @@
+AUDIT LOG SCRAPING — PENELITIAN ACSC EWA
+Tanggal Scraping : 2026-05-16
+Rentang Waktu    : 2020-01-01 s.d. 2026-05-31
+Jumlah Aplikasi  : 6
+============================================================
+   app_name               package_name  ulasan_total  ulasan_filtered status
+    VENTENY        app.fortuna.venteny           662              662     OK
+Mekari Flex            com.mekari.flex          1101             1101     OK
+   Paywatch my.paywatchglobal.paywatch           313              313     OK
+     Wagely         com.wagely.android          1002             1002     OK
+   GajiGesa         com.gajigesanative           498              498     OK
+  AyoKasbon              com.kasbon.id            52               52     OK
+============================================================
+TOTAL ULASAN RAW (2020-2026): 3,628

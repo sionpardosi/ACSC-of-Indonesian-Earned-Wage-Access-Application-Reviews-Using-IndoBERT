@@ -1,0 +1,6 @@
+Aspek,n_test,IndoBERT,SVM,Selisih
+Kecepatan Pencairan,55,0.787,0.721,0.066
+Biaya/Potongan,42,0.8,0.806,-0.006
+Kemudahan Penggunaan,256,0.94,0.912,0.028
+Customer Service,18,0.827,0.725,0.102
+Keandalan Sistem,83,0.694,0.733,-0.039
